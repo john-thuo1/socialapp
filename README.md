@@ -2,8 +2,6 @@
 
 
 ## Introduction
-Reddit clone link : https://social-app-redditclone.herokuapp.com/
-
 
 ## Testing instructions
 
